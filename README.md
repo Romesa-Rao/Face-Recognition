@@ -19,7 +19,7 @@ Face-Recognition attendance management system
   
       ⬤ Launch "Powershell Prompt"
  
-        after opening this, 
+        after opening powershell, 
   
         give the project location same as explained in the video.
  
