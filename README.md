@@ -17,7 +17,6 @@ Face-Recognition attendance management system
  
       ⬤ install "Anaconda Navigator"
   
-  
       ⬤ Launch "Powershell Prompt"
  
         after opening this, 
