@@ -22,6 +22,7 @@ Face-Recognition attendance management system
         after opening powershell, 
   
         give the project location same as explained in the video.
+        👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
  
  
  
