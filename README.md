@@ -14,4 +14,4 @@ CCTV Camera/Webcam would be required
 
  How to Run?
  
- [![demo Video](https://img.youtube.com/vi/eJ5SWw8FUyw/0.jpg)](https://www.youtube.com/watch?v=eJ5SWw8FUyw)
+ [![demo Video](doc/demo_youtube.gif)](https://www.youtube.com/watch?v=eJ5SWw8FUyw)
