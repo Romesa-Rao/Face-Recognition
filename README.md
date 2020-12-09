@@ -15,14 +15,14 @@ Face-Recognition attendance management system
 
 🔴 How to Run?
  
-  ⬤ install "Anaconda Navigator"
+      ⬤ install "Anaconda Navigator"
   
   
- ⬤ Launch "Powershell Prompt"
+      ⬤ Launch "Powershell Prompt"
  
- after opening this, 
+        after opening this, 
   
- give the project location same as explained in the video.
+        give the project location same as explained in the video.
  
  
  
